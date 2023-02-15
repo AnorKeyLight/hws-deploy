@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hws-deploy/static/css/main.5603544a.css",
+    "main.js": "/hws-deploy/static/js/main.4137e7a9.js",
+    "static/js/787.d5710eab.chunk.js": "/hws-deploy/static/js/787.d5710eab.chunk.js",
+    "static/media/avatar.png": "/hws-deploy/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws-deploy/index.html",
+    "main.5603544a.css.map": "/hws-deploy/static/css/main.5603544a.css.map",
+    "main.4137e7a9.js.map": "/hws-deploy/static/js/main.4137e7a9.js.map",
+    "787.d5710eab.chunk.js.map": "/hws-deploy/static/js/787.d5710eab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5603544a.css",
+    "static/js/main.4137e7a9.js"
+  ]
+}
